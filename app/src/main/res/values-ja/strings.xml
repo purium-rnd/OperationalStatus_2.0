@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <integer name="bg_anim_time">50</integer>
+    <string name="title_activity_three_state_sample">ThreeStateSampleActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_state_btn_text">Next State</string>
+
+    <string name="antibacterial">抗菌</string>
+    <string name="air_purification">空気浄化</string>
+    <string name="deodorization">消臭</string>
+    <string name="phytoncide">フィトンチッド</string>
+</resources>
